@@ -1,0 +1,73 @@
+- Cosmos DB Documentation
+    - Overview
+        - About Azure Cosmos DB
+        - 20 days of tips
+    - SQL API (points to SQL API sub-website)
+    - MongoDB API (points to MongoDB API sub-website)
+    - Table API (points to Table API sub-website)
+    - Graph API (points to Graph API sub-website)
+    - Cassandra API (points to Cassandra API sub-website)
+    - Concepts
+      - Serverless database
+      - Global distribution
+      - Partitioning
+      - Unique keys
+      - Consistency
+      - Throughput
+      - TCO
+      - Use cases
+        - Social media apps
+    - Security (from Concepts)
+      - Encryption at rest (from How To Guides > Manage > Security)
+      - Firewall support (from How To Guides > Manage > Security)
+      - Securing access to data (from How To Guides > Manage > Security)
+    - Manageability
+      - Cost-effective reads and writes
+      - Expire data automatically
+      - Back up and restore
+      - Regional failover
+      - Set throughput
+      - Monitor SLAs
+      - Use metrics
+      - Diagnostic logging
+      - Manage keys and consistency
+      - Azure Storage Explorer
+    - Integrations
+      - Connect to Spark
+      - Connect to Spark GraphX
+      - Deploy a website with Azure App Service
+      - Application logging with Logic Apps
+      - Bind to Azure Functions
+      - Analyze data with Hadoop
+      - Integrate with Azure Search
+      - Move data with Azure Data Factory
+      - Analyze real-time data with Azure Stream Analytics
+      - Get changed HL7 FHIR record using Logic Apps
+      - Process sensor data in real time
+      - Visualize your data with Power BI
+      - Leverage the ODBC driver for data visualization
+      - Use Spring Boot Starter with SQL APIs
+    - Samples
+      - Azure CLI
+      - PowerShell
+    - Resources
+        - Azure Roadmap
+        - Azure Code Samples repository
+        - Try Azure Cosmos DB for free
+        - Pricing
+        - FAQ
+        - Stack Overflow
+        - Data consistency explained through baseball
+
+
+
+Notes: 
+  These sections are moved under the top level Cosmos DB TOC:
+    - Overview
+    - Concepts (without Multi-model APIs)
+      - Multi-model APIs will be the "Overview" of the subpages.
+    - How To Guides > Manage (then renamed Manageability)
+      - Extract Security from "How To Guides > Manage", then make it a top level item
+      - Extract items under "How To Guides > Manage > Security", then put them under new "Security" top level item.
+    - Moved everything under "How To Guides > Integrate", then renamed as "Integrations".
+    - Moved entire Resources menu, and included the "Code samples" item from "Reference > Code Samples" and renamed it "Azure Code Samples repository"

@@ -1,0 +1,17 @@
+- Azure Cosmos DB Cassandra API
+  - Overview
+    - About Cassandra API (obtained from Concepts > Multi-model APIs > Cassandra API)
+    - Cassandra API documentation (Cassandra API index)
+  - Quickstarts (from Quickstarts > Cassandra, including subitems)
+    - Node.js
+    - Java
+    - .NET
+    - Python
+  - Tutorials
+    - 1 - Create (single link from Tutorials > 1 - Create > Cassandra)
+    - 2 - Import (single link from Tutorials > 2 - Import > Cassandra)
+    - 3 - Query (single link from Tutorials > 3 - Query > Cassandra)
+    - 4 - Distribute globally (single link from Tutorials > 4 - Distribute Globally > Cassandra)
+
+Notes: 
+- This page will be populated as soon as we have more Cassandra documentation

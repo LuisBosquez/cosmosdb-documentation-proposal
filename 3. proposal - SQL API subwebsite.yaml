@@ -1,0 +1,57 @@
+- Azure Cosmos DB SQL API
+  - Overview
+    - About SQL API (obtained from Concepts > Multi-model APIs > SQL API)
+    - SQL API documentation (SQL API index)
+  - Quickstarts (from Quickstarts > SQL, including subitems)
+    - .NET
+    - Java
+    - Node.js
+    - Python
+    - Xamarin
+  - Tutorials
+    - 1 - Create (single link from Tutorials > 1 - Create > SQL)
+      - Write your first app (from How to guides > Develop > SQL API > Tutorials, including sub-items)
+        - .NET
+        - .NET Core
+        - Java
+        - Node.js
+        - C++
+      - Build a web app (from How to guides > Develop > SQL API > Tutorials, including sub-items)
+        - .NET
+        - Xamarin
+        - Node.js
+        - Java
+        - Python Flask
+    - 2 - Import (single link from Tutorials > 2 - Import > SQL)
+    - 3 - Query (single link from Tutorials > 3 - Query > SQL)
+    - 4 - Distribute globally (single link from Tutorials > 4 - Distribute Globally > SQL)
+    - 5 - Develop locally
+        - Use the emulator (from Tutorials > 5 - Develop locally)
+        - Export certificates (from Tutorials > 5 - Develop locally)
+    - 6 - Integrate with Functions
+        - HTTP trigger (from Tutorials > 6 - Integrate with functions)
+  - Samples (from How To Guides > Develop > SQL API > Samples, including sub-items)
+    - .NET samples
+    - Node.js samples
+    - Python samples
+  - Resources (from How To Guides > Develop > SQL API > Resources, including sub-items)
+    - SQL grammar cheat sheet
+    - Stack Overflow
+    - Videos
+    - Service updates
+    - Schema agnostic indexing paper
+    - Retire S1, S2, S3
+    - Change feed (from How To Guides > Develop)
+    - Geospatial (from How To Guides > Develop)
+    - Indexing (from How To Guides > Develop)
+    - Connected Service in Visual Studio (from How To Guides > Develop)
+  - Reference (from Reference > SQL APIs)
+    - Java
+    - .NET
+    - .NET Change feed
+    - .NET Core
+    - Node.js
+    - Python
+    - REST
+    - REST Resource Provider
+    - SQL

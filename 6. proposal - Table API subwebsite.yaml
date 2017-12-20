@@ -1,0 +1,40 @@
+  - Azure Cosmos DB Tables API
+  - Overview
+    - About Tables API (obtained from Concepts > Multi-model APIs > Tables API)
+    - Tables API documentation (Tables API index)
+  - Quickstarts (from Quickstarts > Table, including subitems)
+    - .NET
+    - Java
+    - Node.js
+    - Python
+  - Tutorials
+    - 1 - Create (single link from Tutorials > 1 - Create > Tables)
+    - 2 - Import (single link from Tutorials > 2 - Import > Tables)
+    - 3 - Query (single link from Tutorials > 3 - Query > Tables)
+    - 4 - Distribute globally (single link from Tutorials > 4 - Distribute Globally > Tables)
+  - Samples (all subitems from How to Guides > Develop > Table API > Azure Table Storage > Develop)
+    - .NET
+    - F#
+    - Node.js 
+    - Java
+    - Node.js
+    - C++ 
+    - PHP
+    - Python
+    - Ruby
+    - PowerShell
+  - Resources (subitems from How to Guides > Develop > Table API)
+    - Table development 
+    - Table API operations with PowerShell
+    - Azure Table storage
+        - Table storage overview
+        - Table storage design guide
+        - Table storage REST APIs
+  - Reference
+    - .NET
+    - Java
+    - Node.js
+    - Python
+
+Notes: 
+- The 5 - Develop locally, and 6 - Integrate with functions sections need their own specific Tables focus.

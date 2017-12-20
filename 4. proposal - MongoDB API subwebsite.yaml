@@ -1,0 +1,36 @@
+- Azure Cosmos DB MongoDB API
+  - Overview
+    - About MongoDB API (obtained from Concepts > Multi-model APIs > MongoDB API)
+    - MongoDB API documentation (MongoDB API index)
+  - Quickstarts (from Quickstarts > MongoDB, including subitems)
+    - Node.js
+    - .NET
+    - Java
+    - Golang
+    - Python
+  - Tutorials
+    - 1 - Create
+      - MongoDB with .NET
+      - MongoDB with Angular
+      - MongoDB with React
+    - 2 - Import (single link from Tutorials > 2 - Import > MongoDB)
+    - 3 - Query (single link from Tutorials > 3 - Query > MongoDB)
+    - 4 - Distribute globally (single link from Tutorials > 4 - Distribute Globally > MongoDB)
+  - Samples
+    - Angular tutorial series (from How To Guides > Develop > MongoDB API)
+        - Part 2 - Create Node app
+        - Part 3 - Add Angular UI
+        - Part 4 - Create Cosmos DB
+        - Part 5 - Connect to Cosmos DB
+        - Part 6 - Write to the app
+    - Additional tutorials (from How To Guides > Develop > MongoDB API)
+        - Node.js console app
+  - Resources
+    - MongoDB feature support (from How To Guides > Develop > MongoDB API)
+    - Connect to your MongoDB account (from How To Guides > Develop > MongoDB API)
+    - Using MongoChef (from How To Guides > Develop > MongoDB API)
+    - Using Robomongo (from How To Guides > Develop > MongoDB API)
+
+Notes: 
+- The 5 - Develop locally, and 6 - Integrate with functions sections need their own specific MongoDB focus.
+- Currently no reference articles specific for MongoDB (maybe we can link to external documentation of recommended drivers?)

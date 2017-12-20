@@ -1,0 +1,214 @@
+- Cosmos DB Documentation
+    - Overview
+        - About Azure Cosmos DB
+        - 20 days of tips
+    - Quickstarts  
+        - SQL
+            - .NET
+            - Java
+            - Node.js
+            - Python
+            - Xamarin
+        - MongoDB
+            - Node.js
+            - .NET
+            - Java
+            - Golang
+            - Python
+        - Graph
+            - .NET
+            - Gremlin console
+            - Java
+            - Node.js
+            - Python
+            - PHP
+        - Table
+            - .NET
+            - Java
+            - Node.js
+            - Python
+        - Cassandra
+            - Node.js
+            - Java
+            - .NET
+            - Python
+    - Tutorials
+        - 1 - Create
+            - SQL
+            - MongoDB with .NET
+            - MongoDB with Angular
+            - MongoDB with React
+            - Table
+            - Graph
+            - Cassandra
+        - 2 - Import
+            - SQL
+            - MongoDB
+            - Table
+            - Cassandra
+        - 3 - Query
+            - SQL
+            - MongoDB
+            - Table
+            - Graph
+        - 4 - Distribute globally
+            - SQL
+            - MongoDB
+            - Table
+            - Graph
+        - 5 - Develop locally
+            - Use the emulator
+            - Export certificates
+        - 6 - Integrate with Functions
+            - HTTP trigger
+    - Samples
+        - Azure CLI
+        - PowerShell
+    - Concepts
+        - Serverless database
+        - Global distribution
+        - Partitioning
+        - Unique keys
+        - Consistency
+        - Throughput
+        - Multi-model APIs
+            - SQL
+            - MongoDB
+            - Table
+            - Graph
+            - Cassandra
+        - Security
+        - TCO
+        - Use cases
+            - Social media apps
+    - How To Guides
+        - Develop
+            - SQL API 
+                - Resources
+                - SQL queries
+                - SQL query performance
+                - SQL playground
+                - Partitioning
+                - Stored procedures, triggers, and UDFs
+                - Performance testing
+                - Performance tips
+                - Multi-master setup
+                - DateTimes
+                - Modeling document data 
+                - Tutorials
+                    - Write your first app
+                        - .NET
+                        - .NET Core
+                        - Java
+                        - Node.js
+                        - C++
+                    - Build a web app
+                        - .NET
+                        - Xamarin
+                        - Node.js
+                        - Java
+                        - Python Flask
+                - Samples
+                    - .NET samples
+                    - Node.js samples
+                    - Python samples
+                - Resources
+                    - SQL grammar cheat sheet
+                    - Stack Overflow
+                    - Videos
+                    - Service updates
+                    - Schema agnostic indexing paper
+                    - Retire S1, S2, S3
+            - MongoDB API
+                - Connect to your MongoDB account
+                - Using MongoChef
+                - Using Robomongo
+                - MongoDB feature support
+                - Angular tutorial series
+                    - Part 2 - Create Node app
+                    - Part 3 - Add Angular UI
+                    - Part 4 - Create Cosmos DB
+                    - Part 5 - Connect to Cosmos DB
+                    - Part 6 - Write to the app
+                - Additional tutorials
+                    - Node.js console app
+            - Graph API
+                - Gremlin support
+            - Table API
+                - Table development
+                - Table API operations with PowerShell
+                - Azure Table storage
+                    - Table storage overview
+                    - Table storage design guide
+                    - Table storage REST APIs
+                    - Develop
+                        - .NET
+                        - F#
+                        - Node.js 
+                        - Java
+                        - Node.js
+                        - C++ 
+                        - PHP
+                        - Python
+                        - Ruby
+                        - PowerShell
+            - Change feed
+            - Geospatial
+            - Indexing
+            - Connected Service in Visual Studio
+        - Manage
+            - Cost-effective reads and writes
+            - Expire data automatically
+            - Back up and restore
+            - Regional failover
+            - Set throughput
+            - Monitor SLAs
+            - Use metrics
+            - Diagnostic logging
+            - Manage keys and consistency
+            - Azure Storage Explorer
+            - Security
+                - Encryption at rest
+                - Firewall support
+                - Securing access to data
+        - Integrate
+            - Connect to Spark
+            - Connect to Spark GraphX
+            - Deploy a website with Azure App Service
+            - Application logging with Logic Apps
+            - Bind to Azure Functions
+            - Analyze data with Hadoop
+            - Integrate with Azure Search
+            - Move data with Azure Data Factory
+            - Analyze real-time data with Azure Stream Analytics
+            - Get changed HL7 FHIR record using Logic Apps
+            - Process sensor data in real time
+            - Visualize your data with Power BI
+            - Leverage the ODBC driver for data visualization
+            - Use Spring Boot Starter with SQL APIs
+    - Reference
+        - Code samples
+        - SQL APIs
+            - Java
+            - .NET
+            - .NET Change feed
+            - .NET Core
+            - Node.js
+            - Python
+            - REST
+            - REST Resource Provider
+            - SQL
+        - Table APIs
+            - .NET
+            - Java
+            - Node.js
+            - Python
+        - Graph APIs            
+            - .NET
+    - Resources
+        - Azure Roadmap
+        - Try Azure Cosmos DB for free
+        - Pricing
+        - FAQ
+        - Stack Overflow
+        - Data consistency explained through baseball

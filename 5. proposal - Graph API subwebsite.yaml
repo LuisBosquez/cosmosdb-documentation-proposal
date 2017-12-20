@@ -1,0 +1,24 @@
+- Azure Cosmos DB Graph API
+  - Overview
+    - About Graph API (obtained from Concepts > Multi-model APIs > Graph API)
+    - Graph API documentation (MongoDB API index)
+  - Quickstarts (from Quickstarts > Graph, including subitems)
+    - .NET
+    - Gremlin console
+    - Java
+    - Node.js
+    - Python
+    - PHP
+  - Tutorials
+    - 1 - Create (single link from Tutorials > 1 - Create > Graph)
+    - 2 - Import (single link from Tutorials > 2 - Import > Graph)
+    - 3 - Query (single link from Tutorials > 3 - Query > Graph)
+    - 4 - Distribute globally (single link from Tutorials > 4 - Distribute Globally > Graph)
+  - Resources
+    - Gremlin support (from How To Guides > Develop > Graph API)
+    - Graph API .NET SDK reference
+
+Notes: 
+- The 5 - Develop locally, and 6 - Integrate with functions sections need their own specific Graph focus.
+- Currently no "Reference" articles specific for Graph (maybe we can link to external documentation of recommended drivers?)
+- We need more samples for Graph API for the section - this is beyond the scope of this exercise.
